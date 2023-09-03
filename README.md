@@ -39,7 +39,3 @@ One of the most remarkable facets of the LEAP initiative is its commitment to pr
 ### The Social Impact of LEAP
 
 LEAP transcends the realm of technology; it is a testament to NITPY's unwavering dedication to social service and educational empowerment. Through LEAP, students have access to quality education, educators find a platform to inspire, and communities prosper through the knowledge and skills imparted.
-
-For more detailed information about NITPY and the LEAP initiative, please visit the official [NITPY website](insert_nitpy_website_url_here) and the dedicated [LEAP page](insert_leap_website_url_here).
-
-*Note: Please replace "insert_logo_url_here," "insert_leap_logo_url_here," "insert_nitpy_website_url_here," and "insert_leap_website_url_here" with the actual logo and website URLs for NITPY and LEAP.*
