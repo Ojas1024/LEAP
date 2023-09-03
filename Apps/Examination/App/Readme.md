@@ -39,4 +39,4 @@ This software is released under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or further information, please contact the LEAP team at [contact@leapexamapp.com](mailto:dev.i7apps@gmail.com).
+For inquiries or further information, please contact the LEAP team at [dev.i7apps@gmail.com](mailto:dev.i7apps@gmail.com).
