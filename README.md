@@ -26,7 +26,7 @@ The **National Institute of Technology Puducherry (NITPY)** is an esteemed techn
 
 #### LEAP Examination Server
 
-The **LEAP Examination Server** is a cutting-edge software solution developed by NITPY students, led by the talented Ojas Gupta. This server revolutionizes the examination process by ensuring secure, efficient, and transparent administration of exams. It facilitates the seamless broadcast of questions to authorized devices, streamlining the examination workflow.
+The **LEAP Examination Server** is a cutting-edge software solution developed by NITPY students. This server revolutionizes the examination process by ensuring secure, efficient, and transparent administration of exams. It facilitates the seamless broadcast of questions to authorized devices, streamlining the examination workflow.
 
 #### LEAP Examination App
 
