@@ -1,6 +1,10 @@
 # LEAP Examination App
 
-The **LEAP Examination App** is a robust lockdown kiosk application designed to provide a secure and controlled environment for conducting examinations or assessments. It ensures that users can access only the examination interface, preventing unauthorized access to other functions on Windows devices.
+## About the Project
+
+Welcome to my personal project, the **LEAP Examination App**! I'm Ojas Gupta, and I'm thrilled to introduce this lockdown kiosk application that I've developed to create a secure and controlled environment for examinations.
+
+The LEAP Examination App is designed to ensure that users can access only the designated examination interface, preventing unauthorized access to other functions on Windows devices. It's a powerful tool to maintain the integrity of the examination process.
 
 ## Key Features
 
@@ -39,4 +43,4 @@ This software is released under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or further information, please contact the LEAP team at [dev.i7apps@gmail.com](mailto:dev.i7apps@gmail.com).
+For inquiries or further information, please contact Ojas at [dev.i7apps@gmail.com](mailto:dev.i7apps@gmail.com).
