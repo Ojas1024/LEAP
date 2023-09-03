@@ -1,6 +1,11 @@
 # LEAP Examination Server
 
-The **LEAP Examination Server** is a powerful and user-friendly software solution developed to simplify the process of conducting examinations in an educational or assessment environment. It has been designed to enhance the efficiency, security, and overall management of examination procedures.
+
+## About the Project
+
+Welcome to my personal project, the **LEAP Examination Server**! I'm Ojas Gupta, and I'm excited to share this software solution that I've developed to simplify the process of conducting secure and efficient examinations.
+
+The LEAP Examination Server is designed to enhance the overall management and administration of examinations, making it easier for educational institutions and organizations to ensure a fair and secure testing environment.
 
 ## Key Features
 
@@ -37,4 +42,4 @@ This software is released under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries or further information, please contact the LEAP team at [dev.i7apps@gmail.com](mailto:dev.i7apps@gmail.com).
+For inquiries or further information, please contact the Ojas at [dev.i7apps@gmail.com](mailto:dev.i7apps@gmail.com).
