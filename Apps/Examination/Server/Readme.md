@@ -23,7 +23,7 @@ The LEAP Examination Server is designed to enhance the overall management and ad
 
 To get started with the LEAP Examination Server, follow these steps:
 
-1. **Installation**: [Download](https://github.com/Ojas1024/LEAP/releases/download/v1.0.0/Leap.Examination.Server.exe) and install the server software on the designated server machine.
+1. **Installation**: [Download](https://github.com/Ojas1024/LEAP/releases/download/v2.0.0/Leap.Examination.Server.exe) and install the server software on the designated server machine.
 
 2. **Configuration**: Configure the server settings like host and port.
 
