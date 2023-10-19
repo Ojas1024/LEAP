@@ -24,7 +24,7 @@ The LEAP Examination App is designed to ensure that users can access only the de
 
 To get started with the LEAP Examination App, follow these steps:
 
-1. **Installation**: [Download](https://github.com/Ojas1024/LEAP/releases/download/v1.0.0/Leap.Examination.App.exe) and install the application on Windows devices that will be used for examinations.
+1. **Installation**: [Download](https://github.com/Ojas1024/LEAP/releases/download/v2.0.0/Leap.Examination.App.exe) and install the application on Windows devices that will be used for examinations.
 
 2. **Configuration**: Customize the application settings as per your examination requirements, including access controls and branding.
 
